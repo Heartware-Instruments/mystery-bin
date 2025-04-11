@@ -1,8 +1,8 @@
 [
   {
-    "name": "LiveCut",
+    "name": "LiveCut_v_0.01",
     "description": "LiveCut_Firmware_v0.1",
-    "platform": "patch_sm",
+    "platform": "LiveCut_Prototype_v1",
     "filepath": "ThatsthewayUHUHUH_v0.1_PreBeta.bin"
   }
 ]
